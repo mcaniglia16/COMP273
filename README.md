@@ -1,1 +1,1 @@
-# COMP273_Assignment1
+Assignments & Projects from COMP273 (Intro to Computer Systems) at McGill University
